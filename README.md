@@ -11,7 +11,7 @@
 
  - Overview 
 
-Riyadh Season is one of the big festival in Saudi kingdom ,four month mega event that will take place from nov 15 to January 15 all around Riyadh. Riyadh Season will bring the world to Saudi Arabia, so hotels in this period of time are in High demand.
+Riyadh Season will bring the world to Saudi Arabia. Riyadh Season is one of the biggest festivals in the kingdom. Four months mega event that will take place from nov 15 to January 15 all around the capital. Hotels in this period of time are in High demand.
 
 
 
