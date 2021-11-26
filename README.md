@@ -1,4 +1,4 @@
-# Hotel-prices
+# Hotel Prices
 
 
 
