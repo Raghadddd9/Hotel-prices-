@@ -10,18 +10,18 @@ Riyadh Season is one of the big festival in Saudi kingdom ,four month mega event
 
 
 
--Problem Statment :
+- Problem Statment :
 
 predict hotel prices during Riyadh Session
 
 
--Data Description :
+- Data Description :
 
 We take our data by webScraping (booking). 
 
 
 
--Features :
+- Features :
 
 Hotel Name : Hotels Names in Riyadh 
 
@@ -38,6 +38,6 @@ Rooms : Type of rooms
 far_center: How far this hotel is from center  
 
 
--Tools :
+- Tools :
 
 Pandas , selenium , beautiful Soup
