@@ -55,6 +55,7 @@ location: Hotel location
 
 
 
+
 - Tools 
 
 Pandas , Selenium , Beautiful Soup , Sklearn. 
