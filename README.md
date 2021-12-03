@@ -2,7 +2,7 @@
 
 
 <p align="center" >
-<img src="visit saudi.png" width ="400">
+<img src="visit-saudi-logo.png" width ="400">
 </p>
 
 # Tourism in Kingdom of Saudi Arabia
