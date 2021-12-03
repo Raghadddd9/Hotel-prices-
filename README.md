@@ -51,7 +51,7 @@ Number_of_Ratings : people visit this hotel reviews
 
 Room_type : Type of room
 
-location: Hotel location 
+Place: Hotel location 
 
 
 
