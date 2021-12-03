@@ -1,5 +1,4 @@
-# Riyadh Hotel Prices
-
+# Tourism in Kingdom of Saudi Arabia
 
 
 
@@ -11,38 +10,44 @@
 
  - Overview 
 
-Riyadh Season will bring the world to Saudi Arabia. Riyadh Season is one of the biggest festivals in the kingdom. Four months mega event that will take place from nov 15 to January 15 all around the capital. Hotels in this period of time are in High demand.
+One of Saudi Arabia 2030 vision key initiatives is “Quality of life”. This initiative comes with the aim of diversifying and enriching the tourism and entertainment experience in the Kingdom. 
+It improve the quality of life by developing the necessary environment to create more vibrant options that enhance the participation and experience of citizens, residents and visitors.
+
+The Saudi Tourism Authority has launched tourism programs such as (Saudi Spirit), a deliberative platform which you can discover tourist destinations, events and seasons. Through the platform, visitors can find suitable packages and trips, and entertainment activities available such as AlUla Winter, Riyadh , Jeddah and Alahsa Seasons.
+
 
 
 
 - Problem Statment 
 
-predict hotel prices during Riyadh Session
+In this time of the year, hotels and resort are in high demand in the Kingdom. We will predict the prices in the current month (December 2021)
+
 
 
 - Data Description 
 
-We take our data by webScraping (booking). 
+We webscraping the (booking) website and comind it with data from kggle. 
 
 
 
 - Features 
 
-Hotel Name : Hotels Names in Riyadh 
+Hotel_Name : Hotels Names in saudi 
 
 Price : Price of this room in this period of time
 
-Rating: Hotel Stars 
+Rating: Hotel rating
 
-Kind_rat: Is it Excellent ,good ,very good etc….
+rating_title: Is it Excellent ,good ,very good etc….
 
-Reviews : people visit this hotel reviews
+Number_of_Ratings : people visit this hotel reviews
 
-Rooms : Type of rooms
- 
-far_center: How far this hotel is from center  
+Room_type : Type of room
+
+location: Hotel location 
+
 
 
 - Tools 
 
-Pandas , selenium , beautiful Soup
+Pandas , Selenium , Beautiful Soup , Sklearn. 
