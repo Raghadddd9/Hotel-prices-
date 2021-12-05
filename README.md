@@ -23,11 +23,11 @@ It improve the quality of life by developing the necessary environment to create
 The Saudi Tourism Authority has launched tourism programs such as **(Saudi Spirit)**, a deliberative platform which you can discover tourist destinations, events and seasons. Through the platform, visitors can find suitable packages and trips, and entertainment activities available such as AlUla Winter, Riyadh , Jeddah and Alahsa Seasons.
 
 
-
+process of building a tool for tourism in KSA to predict the accommodation prices in riyals and given the number of beds, the rating score, and the number of reviews.
 
 - Problem Statment 
 
-In this time of the year, hotels and resort are in high demand in the Kingdom. We will predict the prices in the current month (December 2021)
+In this time of the year, hotels and resorts are in high demand in the Kingdom. in this project we bulid a model to predict the prices in riyals, given the rating score, and the number of reviews.
 
 
 
