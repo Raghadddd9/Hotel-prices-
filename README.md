@@ -23,7 +23,7 @@ It improve the quality of life by developing the necessary environment to create
 The Saudi Tourism Authority has launched tourism programs such as **(Saudi Spirit)**, a deliberative platform which you can discover tourist destinations, events and seasons. Through the platform, visitors can find suitable packages and trips, and entertainment activities available such as AlUla Winter, Riyadh , Jeddah and Alahsa Seasons.
 
 
-process of building a tool for tourism in KSA to predict the accommodation prices in riyals and given the number of beds, the rating score, and the number of reviews.
+
 
 - Problem Statment 
 
