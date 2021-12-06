@@ -33,7 +33,7 @@ In this time of the year, hotels and resorts are in high demand in the Kingdom. 
 
 - Data Description 
 
-We webscraping the (booking) website and combine it with data from kggle. 
+We webscraping the (booking) website and combine it with data from kaggle. 
 
 
 
